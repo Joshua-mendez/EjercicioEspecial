@@ -1,5 +1,5 @@
-# Ejercicio Evaluado Especial
+# Cohorte 53 
+## Joshua Yurem Mendez Mendoza
+* Fecha: Miercoles 30 de abril de 2025
+* Hora 10:00
 
-Ejercicio Evaluado Especial
-
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
